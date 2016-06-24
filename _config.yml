@@ -1,0 +1,28 @@
+name: kreativdirektion
+favicon: null
+layout_spectrum: 0.6549730857368559
+typography_spectrum: 0.08105370565317571
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.3210961832664907
+  lightness: 0.2875922666862607
+  saturation: 0.19896493037231266
+  rhythmicContrast: 0.31620900612324476
+purpose: []
